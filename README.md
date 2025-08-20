@@ -37,7 +37,9 @@ Real-time Processing: Documents analyzed in under 3 minutes with 98.7% accuracy
 
   ![3](https://github.com/user-attachments/assets/36d3040c-9a0b-44c6-bcb3-b5138a569a10)
 
-  
+
+https://github.com/user-attachments/assets/d3b4ce4c-bec4-4493-a983-beb915f84e14
+
 
 🧮 Ultra Smart Grading System
 
