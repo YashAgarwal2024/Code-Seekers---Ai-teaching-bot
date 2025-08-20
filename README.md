@@ -1,6 +1,12 @@
 # Code-Seekers---Ai-teaching-bot
 🧠 EduAI Pro Max - Revolutionary AI teaching assistant platform. Features PDF analysis, smart grading, AI video generation &amp; tutor chat. Built with HTML5/CSS3/JS/Tailwind CSS. 95% faster document analysis, 10x grading speed. Ultra-modern UI with glass morphism design. Ready to deploy! 🚀
+
+![1](https://github.com/user-attachments/assets/016584de-75f8-4ee1-a17c-196f692301cd)
+
+![2](https://github.com/user-attachments/assets/088987ee-22d1-4759-bc61-fc3cc884e27c)
+
 🎯 Problem Statement
+
 The Educational Crisis
 Modern education faces unprecedented challenges that traditional methods struggle to address:
 
@@ -29,12 +35,18 @@ Multi-layered Extraction: Simultaneous keyword extraction, concept mapping, and 
 Contextual Intelligence: AI understands academic context, subject matter, and grade-level appropriateness
 Real-time Processing: Documents analyzed in under 3 minutes with 98.7% accuracy
 
+  ![3](https://github.com/user-attachments/assets/36d3040c-9a0b-44c6-bcb3-b5138a569a10)
+
+  
+
 🧮 Ultra Smart Grading System
 
 Comprehensive Evaluation: Multi-dimensional assessment covering content accuracy, reasoning, and presentation
 Subject-Specific Intelligence: Specialized algorithms for Mathematics, Science, Literature, and more
 Detailed Feedback Generation: Automated creation of constructive, personalized feedback
 Bias Elimination: Consistent, objective scoring removes human subjectivity
+
+![4](https://github.com/user-attachments/assets/7f632c00-8e44-45cd-96a1-0b3b6f9328ce)
 
 🎓 Advanced AI Tutor Chat
 
@@ -213,4 +225,5 @@ Development Guidelines
 💻 Frontend Development: Advanced Web Technologies
 🎨 UI/UX Design: Modern Interface Design
 🤖 AI Integration: Machine Learning Implementation
+
 
